@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @quangdusk
 - 👀 I’m interested in play game and code
 - 🌱 I’m currently learning php and js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with all of you
 - 📫 How to reach me ndquangtt1@gmail.com
 
 <!---
